@@ -1,17 +1,17 @@
 {
-  "tagline": "[30 characters]",
-  "repository": "https://github.com/newrelic/{{ NERDPACK_NAME }}.git",
-  "details": "[]",
+  "tagline": "Create a Radar Diagram",
+  "details": "Create a simple radar diagram using facets for axes",
+  "repository": "https://github.com/Limbrey/radar-visualization.git",
+  "whatsNew": "",
   "support": {
-    "issues": {
-      "url": "https://github.com/newrelic/{{ NERDPACK_NAME }}/issues"
-    },
     "email": {
-      "address": "opensource+{{ NERDPACK_NAME }}@newrelic.com"
+      "address": "rlimbrey@newrelic.com"
+    },
+    "issues": {
+      "url": "https://github.com/Limbrey/radar-visualization/issues"
     },
     "community": {
-      "url": "https://discuss.newrelic.com/t/[YOUR REPO SUPPORT TOPIC]"
+      "url": ""
     }
-  },
-  "whatsNew": "\n-Fix: One change that was made\n-Fix: Another change that was made\n-Feat: One feature that was added"
+  }
 }
